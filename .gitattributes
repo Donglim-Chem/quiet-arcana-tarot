@@ -1,0 +1,8 @@
+# Normalize text files to LF in the repo
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
